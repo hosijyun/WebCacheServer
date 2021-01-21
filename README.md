@@ -16,6 +16,10 @@ http://127.0.0.1/request/?url=[地址]
 注意, 缓存默认存储于内存中, 如果缓存较多, 则容易造成内存相关问题。
 指定参数`-dir`可将混存存储于本地目录中。
 
+## 授权协议
+MIT
+
 ## 联络
-使用以下电子邮件联络我weefic at whu.eud.cn
-You may contact the author by e-mail: weefic at whu.eud.cn
+使用以下电子邮件联络我weefic at whu.edu.cn
+
+You may contact the author by e-mail: weefic at whu.edu.cn
